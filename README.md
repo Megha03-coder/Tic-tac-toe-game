@@ -1,4 +1,1 @@
-# project-demo
-this is my first repository.
-<br>
-author -  megha chauhan
+This iis the simple game.
